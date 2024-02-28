@@ -12,6 +12,8 @@ const Home = ({navigation}) => {
         navigation.replace('LoginScreen');
       }
     });
+
+    ///test
   };
   return (
     <View style={Styles.container}>
